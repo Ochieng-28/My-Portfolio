@@ -1,6 +1,19 @@
 body{ background: bisque
     
     }
+
 img { border-radius: 50%;
      width: 400px;
     }
+
+h3  {text-align: center ;
+      color:blue
+    }
+
+Ul{ text-align: center ;
+    color: black;
+  }
+
+ul{ text-align: justify;
+    
+  }
