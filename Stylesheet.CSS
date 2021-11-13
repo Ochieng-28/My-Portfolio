@@ -3,17 +3,12 @@ body{ background: bisque
     }
 
 img { border-radius: 50%;
-     width: 400px;
+     width: 300px;
     }
 
-h3  {text-align: center ;
+h3  {text-align: left ;
       color:blue
     }
 
-Ul{ text-align: center ;
-    color: black;
-  }
 
-ul{ text-align: justify;
-    
-  }
+
