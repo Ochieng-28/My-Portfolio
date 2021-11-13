@@ -1,6 +1,13 @@
-body{ background: bisque
-    
-    }
+body{ background-color: lightgrey;
+        width: 400px;
+        border: 1.5px dashed green;
+        padding: 1.5px;
+        margin: 200px;
+      }
+
+p{ text-justify: auto;
+
+}
 
 img{ border-radius: 50%;
      width: 200px;
@@ -8,7 +15,7 @@ img{ border-radius: 50%;
 
 h3{text-align: left ;
       color:blue
-    }
+}
 
 
 
