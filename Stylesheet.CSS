@@ -1,4 +1,4 @@
-body{ background-color: lightgrey;
+body{ background-color: greenyellow;
         width: 600px;
         border: 1.5px dashed green;
         padding: 1.5px;
@@ -8,11 +8,17 @@ body{ background-color: lightgrey;
         margin-left: 15px;
         margin:auto
       }
-nav{ background-color: orange;
+nav{ background-color: black;
     margin-top: auto;
+    font-size: large;
+    text-emphasis-color: white;
     }
+ h3{color: blue;
+    text-shadow: blue;
+
+ }   
 h1{ text-align: center;
-    color: orange;
+    color: black
 }
 p{ text-justify: auto;
 
