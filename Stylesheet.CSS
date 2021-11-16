@@ -20,13 +20,15 @@ nav{ background-color: black;
 h1{ text-align: center;
     color: black
 }
-p{ text-justify: auto;
+p{
+    text-align: 5px;
+    font-size: 25px;
 
 }
 
 img{ border-radius: 50%;
      width: 200px;
-     align: left
+     float: left;
     }
 
 
