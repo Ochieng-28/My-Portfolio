@@ -1,5 +1,5 @@
 # My-Portfolio
-#### My improved HTML and CSS Portfolio, 17/11/2021
+#### individually created Portfolio as a course work assigment for week one for the RPA Moringa online classes, 17/11/2021
 #### By **Tonny Olaru**
 ## Description
 This Webpage is a portfolio of My archivemnets, Personal Objective, Education, Interests and Hobbies and my referees and contacts.
