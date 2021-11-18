@@ -4,7 +4,7 @@
 ## Description
 This Webpage is a portfolio of My archivemnets, Personal Objective, Education, Interests and Hobbies and my referees and contacts.
 ## Setup/Installation Requirements
-* This webpage is HTML.5 version, is simple to use, and will run in all most all the browsers such a Chrome/edge/Mozilla etc. The webpage is current hosted on github, for learning purposes.
+* This webpage is HTML.5 version, is simple to use, and will run in all most all the browsers such a Chrome/edge/Mozilla etc. The webpage is current hosted on github, for learning purposes https://ochieng-28.github.io/My-Portfolio/.
 ## Known Bugs
 So far No bags reported but the page is still a work in progress. 
 ## Technologies Used
